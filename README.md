@@ -7,7 +7,7 @@ Sample website with plenty of files for demos
 ##How to contribute
 ##Deployment
 ##Nothing
-
+Pleas fork this repository and than do something else idk what :D
 ###Copyright
 
 adding
