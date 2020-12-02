@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alzan Jerliu     alzanjerliu@gmail.com  
 
 # THANKS
 
