@@ -10,5 +10,5 @@ Sample website with plenty of files for demos
 ##Nothing
 Pleas fork this repository and than do something else idk what :D
 ###Copyright
-
+All rights reserved
 adding
